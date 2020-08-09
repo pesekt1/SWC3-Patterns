@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/behavioral/Demos/Demos.iml" filepath="$PROJECT_DIR$/behavioral/Demos/Demos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/structural/Demos/Demos1.iml" filepath="$PROJECT_DIR$/structural/Demos/Demos1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/behavioral/Exercises/Exercises.iml" filepath="$PROJECT_DIR$/behavioral/Exercises/Exercises.iml" />
+      <module fileurl="file://$PROJECT_DIR$/structural/Exercises/Exercises1.iml" filepath="$PROJECT_DIR$/structural/Exercises/Exercises1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Patterns.iml" filepath="$PROJECT_DIR$/.idea/Patterns.iml" />
+      <module fileurl="file://$PROJECT_DIR$/behavioral/Solutions/Solutions.iml" filepath="$PROJECT_DIR$/behavioral/Solutions/Solutions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/structural/Solutions/Solutions1.iml" filepath="$PROJECT_DIR$/structural/Solutions/Solutions1.iml" />
+    </modules>
+  </component>
+</project>
